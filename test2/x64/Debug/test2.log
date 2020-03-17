@@ -1,0 +1,18 @@
+﻿  control_mpc.cpp
+D:\C++\software\test2\test2\control_mpc.h(57,16): warning C4305:  “初始化”: 从“double”到“float”截断
+D:\C++\software\test2\test2\control_mpc.cpp(41,22): warning C4552:  ”-“: 未使用表达式结果
+D:\C++\software\test2\test2\control_mpc.cpp(44,21): warning C4552:  ”-“: 未使用表达式结果
+D:\C++\software\test2\test2\control_mpc.cpp(75,33): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++\software\test2\test2\control_mpc.cpp(93,33): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\software\test2\test2\control_mpc.cpp(94,58): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\software\test2\test2\control_mpc.cpp(95,56): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\software\test2\test2\control_mpc.cpp(96,56): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+  test2.cpp
+D:\C++\software\test2\test2\control_mpc.cpp(112,63): warning C4244:  “参数”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\C++\software\test2\test2\control_mpc.cpp(112,63): warning C4244:         with
+D:\C++\software\test2\test2\control_mpc.cpp(112,63): warning C4244:         [
+D:\C++\software\test2\test2\control_mpc.cpp(112,63): warning C4244:             Derived=Eigen::Matrix<double,-1,5,0,-1,5>
+D:\C++\software\test2\test2\control_mpc.cpp(112,63): warning C4244:         ]
+  正在生成代码...
+D:\C++\software\test2\test2\control_mpc.h(57,16): warning C4305:  “初始化”: 从“double”到“float”截断
+  test2.vcxproj -> D:\C++\software\test2\x64\Debug\test2.exe
